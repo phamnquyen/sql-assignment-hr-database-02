@@ -29,10 +29,8 @@ The database is populated with realistic test data:
 - 26 employees with diverse roles and salaries  
 - 24 job titles (ranging from Assistant to C-level)  
 - Detailed job history with:
-  - At least 2 employees having 3+ job history records
+  - At least 2 employees with 3+ job history records
   - Full historical and current job tracking  
-- Defined supervisor relationships (`emp_sup`)
-- Defined department managers (`dept_manager`)
 
 ---
 
