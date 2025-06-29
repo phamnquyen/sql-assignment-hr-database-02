@@ -1,4 +1,4 @@
-# HR Schema and Database (MySQL)
+# HR Schema and Database Project 02 (MySQL)
 
 This project implements a comprehensive HR database schema using MySQL. It includes table definitions, data insertion scripts, and advanced analytical SQL queries. The project demonstrates proficiency in relational database design, DDL/DML scripting, and query writing for real-world HR data management scenarios.
 
