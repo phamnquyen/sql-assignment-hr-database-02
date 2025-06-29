@@ -14,7 +14,7 @@ This project implements a comprehensive HR database schema using MySQL. It inclu
 
 Write a DDL file to create the HR database and all associated tables based on the schema diagram below:
 
-![HR Diagram](HR diagram_02.png)
+![HR Diagram](HR_diagram_02.png)
 
 ---
 
